@@ -1,0 +1,71 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table {
+    margin: auto;
+    text-align: center;
+}
+
+th {
+    width: 16.6%;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: #ffe018;
+    font-weight: normal
+}
+
+#descans {
+    font-size: 20px;
+    padding: 15px;
+}
+
+.dias {
+    font-size: 25px;
+    padding: 30px;
+    background-color: #86ff71;
+}
+
+.LMSGI {
+    background-color: #f1a9c0
+}
+
+.BD {
+    background-color: #e9f0be
+}
+
+.PED {
+    background-color: #4c9082
+}
+
+.SI {
+    background-color: #deef23
+}
+
+.TUT {
+    background-color: #3a88cd;
+}
+
+.AN {
+    background-color: #fcc82b;
+}
+
+.DIW {
+    background-color: #f48e3b;
+}
+
+.IPOI {
+    background-color: #c82323;
+}
